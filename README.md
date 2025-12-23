@@ -137,6 +137,11 @@ SourceCode/
 ----------------------------------------
 9. CONTACT / SUPPORT
 ----------------------------------------
+## 👤 Author
+**Kabeer Ahmed**  
+AI Student | Java & C++ Programmer  
+GitHub: https://github.com/kabeerahmed-AiExpert
+Email: Kabeerahmed269@gmail.com
 For any issue running the project:
 - Re-check database import
 - Confirm JAR libraries are added in NetBeans
@@ -145,3 +150,4 @@ For any issue running the project:
 ----------------------------------------
 END OF README
 ----------------------------------------
+
